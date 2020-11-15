@@ -14,4 +14,4 @@ Notaðu röddina þína til að færa línu í 4 áttir og búa til einfaldar te
 ## Útkoman, næsta skref
 --//--
 ## Vefsiða
---//--
+https://mateusz0502.github.io/FORR3FV05EU-Skilaverkefni5/
