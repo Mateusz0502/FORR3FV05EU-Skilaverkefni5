@@ -10,7 +10,7 @@ Notaðu röddina þína til að færa línu í 4 áttir og búa til einfaldar te
 ## Myndir og myndbönd
 --//--
 ## Greinagerð
---//--
+**15.11** - Bjó til index.html og style.css, byrjaði að vinna við javascript.
 ## Útkoman, næsta skref
 --//--
 ## Vefsiða
