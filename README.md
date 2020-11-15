@@ -7,3 +7,11 @@
 ## Verkefnalýsing
 **Virtual "Etch-A-Sketch" stjórnað að raðskipunum**  
 Notaðu röddina þína til að færa línu í 4 áttir og búa til einfaldar teikningar.
+## Myndir og myndbönd
+--//--
+## Greinagerð
+--//--
+## Útkoman, næsta skref
+--//--
+## Vefsiða
+--//--
