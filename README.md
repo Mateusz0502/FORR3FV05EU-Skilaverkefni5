@@ -1,5 +1,7 @@
-# FORR3FV05EU-Skilaverkefni5
-
-## Mateusz Kuzniewski
-## Tækniskólinn
-## Haust 2020
+# Skilaverkefni 5
+## Upplýsingar um höfund, áfanga og skóla
+- Mateusz Kuzniewski
+- FORR3FV05EU
+- Tækniskólinn
+- Haust 2020
+## Verkefnalýsing
