@@ -11,7 +11,7 @@ Notaðu röddina þína til að færa línu í 4 áttir og búa til einfaldar te
 --//--
 ## Greinagerð
 **15.11** - Bjó til index.html og style.css, byrjaði að vinna við javascript.  
-**22.11** - Flutt inn öll nauðsynleg p5.js söfn, forrit verður skrifað í p5.speech.js.
+**22.11** - Öllum kóðanum verður bætt við p5.speech.js skrána.
 ## Útkoman, næsta skref
 --//--
 ## Vefsiða
