@@ -13,7 +13,7 @@ Notaðu röddina þína til að færa línu í 4 áttir og búa til einfaldar te
 myndbandið er í repository.
 ## Greinagerð
 **15.11** - Bjó til index.html og style.css, byrjaði að vinna við javascript.  
-**22.11** - Ákvað að nota p5.speech safnið, öllum kóðanum verður bætt við p5.speech.js skrána.
+**22.11** - Ákvað að nota p5.speech safnið, öllum kóðanum verður bætt við p5.speech.js skrána.  
 **04.12** - Búinn að skrifa kóðann. Allar Skrár eru settar í github til að prófa það.
 ## Útkoman, næsta skref
 Útkoman er síðu með stjórntækjum efst til vinstri sem segja þér hvaða orð þú átt að segja til að færa línuna.  
