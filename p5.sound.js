@@ -176,39 +176,39 @@ var audiocontext = new window.AudioContext();
 
 Tone_core_Tone__WEBPACK_IMPORTED_MODULE_1___default.a.setContext(audiocontext);
 
- * <p>Returns the Audio Context for this sketch. Useful for users
- * who would like to dig deeper into the <a target='_blank' href=
- * 'http://webaudio.github.io/web-audio-api/'>Web Audio API
- * </a>.</p>
- *
- * <p>Some browsers require users to startAudioContext
- * with a user gesture, such as touchStarted in the example below.</p>
- *
- * @for p5
- * @method getAudioContext
- * @return {Object}    AudioContext for this sketch
- * @example
- * <div><code>
- *  function draw() {
- *    background(255);
- *    textAlign(CENTER);
- *
- *    if (getAudioContext().state !== 'running') {
- *      text('click to start audio', width/2, height/2);
- *    } else {
- *      text('audio is enabled', width/2, height/2);
- *    }
- *  }
- *
- *  function touchStarted() {
- *    if (getAudioContext().state !== 'running') {
- *      getAudioContext().resume();
- *    }
- *    var synth = new p5.MonoSynth();
- *    synth.play('A4', 0.5, 0, 0.2);
- *  }
- *
- * </div></code>
+  <p>Returns the Audio Context for this sketch. Useful for users
+  who would like to dig deeper into the <a target='_blank' href=
+  'http://webaudio.github.io/web-audio-api/'>Web Audio API
+  </a>.</p>
+ 
+  <p>Some browsers require users to startAudioContext
+  with a user gesture, such as touchStarted in the example below.</p>
+ 
+  @for p5
+  @method getAudioContext
+  @return {Object}    AudioContext for this sketch
+  @example
+  <div><code>
+   function draw() {
+     background(255);
+     textAlign(CENTER);
+ 
+     if (getAudioContext().state !== 'running') {
+       text('click to start audio', width/2, height/2);
+     } else {
+       text('audio is enabled', width/2, height/2);
+     }
+   }
+ 
+   function touchStarted() {
+     if (getAudioContext().state !== 'running') {
+       getAudioContext().resume();
+     }
+     var synth = new p5.MonoSynth();
+     synth.play('A4', 0.5, 0, 0.2);
+   }
+ 
+  </div></code>
 
 
 p5.prototype.getAudioContext = function () {
