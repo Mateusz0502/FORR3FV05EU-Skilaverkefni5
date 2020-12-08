@@ -412,3 +412,8 @@ var myRec = new p5.SpeechRec('en-US', parseResult); // nýr P5.SpeechRec object 
 		else if(mostrecentword.indexOf("down")!==-1) { dx=0;dy=1; }
 		console.log(mostrecentword);
 	}
+
+	function mousePressed() 
+	{
+    		getAudioContext().resume()
+	}
