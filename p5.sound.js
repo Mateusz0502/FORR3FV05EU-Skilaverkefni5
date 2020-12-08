@@ -175,7 +175,7 @@ global.TONE_SILENCE_VERSION_LOGGING = true;
 var audiocontext = new window.AudioContext(); 
 
 Tone_core_Tone__WEBPACK_IMPORTED_MODULE_1___default.a.setContext(audiocontext);
-/**
+
  * <p>Returns the Audio Context for this sketch. Useful for users
  * who would like to dig deeper into the <a target='_blank' href=
  * 'http://webaudio.github.io/web-audio-api/'>Web Audio API
@@ -209,7 +209,7 @@ Tone_core_Tone__WEBPACK_IMPORTED_MODULE_1___default.a.setContext(audiocontext);
  *  }
  *
  * </div></code>
- */
+
 
 p5.prototype.getAudioContext = function () {
   return audiocontext;
