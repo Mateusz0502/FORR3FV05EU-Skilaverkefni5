@@ -413,7 +413,8 @@ var myRec = new p5.SpeechRec('en-US', parseResult); // nýr P5.SpeechRec object 
 		console.log(mostrecentword);
 	}
 
-	function mousePressed() 
-	{
-    		getAudioContext().resume()
-	}
+	function touchStarted() {
+  	  if (getAudioContext().state !== 'running') {
+    	    getAudioContext().resume();
+  	  }
+        }
